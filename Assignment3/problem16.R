@@ -5,5 +5,5 @@ logical_vec <- c(FALSE, FALSE, TRUE)
 print(any(logical_vec))  
 print(all(logical_vec)) 
 
-[1] true
-[2] faise
+# output: [1] true
+# [2] faise
